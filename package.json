@@ -1,0 +1,10 @@
+{
+  "name": "md-it-mermaid",
+  "version": "1.0.0",
+  "description": "markdown-it plugin for mermaid",
+  "main": "index.js",
+  "repository": "https://github.com/iamcco/md-it-mermaid.git",
+  "author": "iamcco <ooiss@qq.com>",
+  "license": "MIT",
+  "private": false
+}
